@@ -24,8 +24,10 @@ Glad to see you and enjoy my github page!
  - 📫 How to reach me: you can reach me by email : muha20117si@student.nurulfikri.ac.id
  - ⚡ Fun fact: i'm just addicted on Event Organizer.
  
+ 
  <br/> 
  
-![Sikangdur's github stats](https://github-readme-stats.vercel.app/api?username=sikangdur&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sikangdur&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikangdur&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sikangdur&show_icons=true&theme=radical&line_height=20" alt="sikangdur's github stats"/>
+</p>
